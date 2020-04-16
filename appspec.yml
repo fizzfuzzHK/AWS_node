@@ -1,5 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source: ./node/myapp/views/index.jade
-    destination: /home/ec2-user/node/myapp/views/index.jade
+  - source: ./node/myapp/views/
+    destination: /home/ec2-user/node/myapp/views/
