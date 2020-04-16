@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1587039905,,"wq"
+|2,0,1587041138,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,28 +25,42 @@
 # Registers:
 
 # File marks:
-'0  5  39  ~/appspec.yml
-|4,48,5,39,1587039905,"~/appspec.yml"
-'1  5  30  ~/appspec.yml
-|4,49,5,30,1586966324,"~/appspec.yml"
-'2  5  31  ~/appspec.yml
-|4,50,5,31,1586964355,"~/appspec.yml"
-'3  5  31  ~/appspec.yml
-|4,51,5,31,1586964355,"~/appspec.yml"
-'4  5  17  ~/appspec.yml
-|4,52,5,17,1586964339,"~/appspec.yml"
-'5  5  17  ~/appspec.yml
-|4,53,5,17,1586964339,"~/appspec.yml"
-'6  5  17  ~/appspec.yml
-|4,54,5,17,1586964339,"~/appspec.yml"
-'7  5  17  ~/appspec.yml
-|4,55,5,17,1586964339,"~/appspec.yml"
-'8  3  16  ~/.ssh/config
-|4,56,3,16,1586961470,"~/.ssh/config"
-'9  3  14  ~/.ssh/config
-|4,57,3,14,1586961405,"~/.ssh/config"
+'0  9  42  ~/appspec.yml
+|4,48,9,42,1587041138,"~/appspec.yml"
+'1  9  42  ~/appspec.yml
+|4,49,9,42,1587041083,"~/appspec.yml"
+'2  5  57  ~/appspec.yml
+|4,50,5,57,1587040581,"~/appspec.yml"
+'3  6  18  ~/appspec.yml
+|4,51,6,18,1587040581,"~/appspec.yml"
+'4  5  57  ~/appspec.yml
+|4,52,5,57,1587040581,"~/appspec.yml"
+'5  6  18  ~/appspec.yml
+|4,53,6,18,1587040581,"~/appspec.yml"
+'6  5  39  ~/appspec.yml
+|4,54,5,39,1587039905,"~/appspec.yml"
+'7  5  39  ~/appspec.yml
+|4,55,5,39,1587039905,"~/appspec.yml"
+'8  5  39  ~/appspec.yml
+|4,56,5,39,1587039905,"~/appspec.yml"
+'9  5  39  ~/appspec.yml
+|4,57,5,39,1587039905,"~/appspec.yml"
 
 # Jumplist (newest first):
+-'  9  42  ~/appspec.yml
+|4,39,9,42,1587041138,"~/appspec.yml"
+-'  9  42  ~/appspec.yml
+|4,39,9,42,1587041083,"~/appspec.yml"
+-'  5  57  ~/appspec.yml
+|4,39,5,57,1587041054,"~/appspec.yml"
+-'  5  57  ~/appspec.yml
+|4,39,5,57,1587041054,"~/appspec.yml"
+-'  6  18  ~/appspec.yml
+|4,39,6,18,1587040581,"~/appspec.yml"
+-'  6  18  ~/appspec.yml
+|4,39,6,18,1587040581,"~/appspec.yml"
+-'  5  39  ~/appspec.yml
+|4,39,5,39,1587040574,"~/appspec.yml"
 -'  5  39  ~/appspec.yml
 |4,39,5,39,1587039905,"~/appspec.yml"
 -'  5  30  ~/appspec.yml
@@ -63,6 +77,12 @@
 |4,39,1,0,1586964319,"~/appspec.yml"
 -'  1  0  ~/appspec.yml
 |4,39,1,0,1586964319,"~/appspec.yml"
+-'  1  0  ~/appspec.yml
+|4,39,1,0,1586964319,"~/appspec.yml"
+-'  1  0  ~/appspec.yml
+|4,39,1,0,1586964319,"~/appspec.yml"
+-'  1  0  ~/appspec.yml
+|4,39,1,0,1586964319,"~/appspec.yml"
 -'  3  16  ~/.ssh/config
 |4,39,3,16,1586961470,"~/.ssh/config"
 -'  3  16  ~/.ssh/config
@@ -95,166 +115,146 @@
 |4,39,3,16,1586961470,"~/.ssh/config"
 -'  3  16  ~/.ssh/config
 |4,39,3,16,1586961470,"~/.ssh/config"
--'  3  14  ~/.ssh/config
-|4,39,3,14,1586961405,"~/.ssh/config"
--'  3  14  ~/.ssh/config
-|4,39,3,14,1586961405,"~/.ssh/config"
--'  3  14  ~/.ssh/config
-|4,39,3,14,1586961405,"~/.ssh/config"
--'  3  14  ~/.ssh/config
-|4,39,3,14,1586961405,"~/.ssh/config"
--'  3  14  ~/.ssh/config
-|4,39,3,14,1586961405,"~/.ssh/config"
--'  3  14  ~/.ssh/config
-|4,39,3,14,1586961405,"~/.ssh/config"
--'  3  14  ~/.ssh/config
-|4,39,3,14,1586961405,"~/.ssh/config"
--'  3  14  ~/.ssh/config
-|4,39,3,14,1586961405,"~/.ssh/config"
--'  3  14  ~/.ssh/config
-|4,39,3,14,1586961405,"~/.ssh/config"
--'  3  14  ~/.ssh/config
-|4,39,3,14,1586961405,"~/.ssh/config"
--'  3  14  ~/.ssh/config
-|4,39,3,14,1586961405,"~/.ssh/config"
--'  3  14  ~/.ssh/config
-|4,39,3,14,1586961405,"~/.ssh/config"
--'  3  14  ~/.ssh/config
-|4,39,3,14,1586961405,"~/.ssh/config"
--'  3  14  ~/.ssh/config
-|4,39,3,14,1586961405,"~/.ssh/config"
--'  3  14  ~/.ssh/config
-|4,39,3,14,1586961405,"~/.ssh/config"
--'  3  14  ~/.ssh/config
-|4,39,3,14,1586961405,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961398,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961398,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961398,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961398,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961398,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961398,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961398,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961398,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961398,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961398,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961398,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961398,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961398,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961398,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961398,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961398,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961398,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961398,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961398,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961398,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961398,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961398,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961398,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961398,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961398,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961398,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961398,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961398,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961398,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961398,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961398,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961398,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961387,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961387,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961387,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961387,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961387,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961387,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961387,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961387,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961387,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961387,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961387,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961387,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961387,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961387,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961387,"~/.ssh/config"
--'  4  27  ~/.ssh/config
-|4,39,4,27,1586961387,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1586961341,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1586961341,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1586961341,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1586961341,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1586961341,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1586961341,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1586961341,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1586961341,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1586961341,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1586961341,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1586961341,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1586961341,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
 
 # History of marks within files (newest to oldest):
 
 > ~/appspec.yml
-	*	1587039903	0
-	"	5	39
-	^	5	40
-	.	5	39
+	*	1587041138	0
+	"	9	42
+	^	9	43
+	.	15	72
 	+	5	37
 	+	4	17
 	+	5	31
@@ -262,6 +262,7 @@
 	+	5	31
 	+	4	17
 	+	5	39
+	+	15	72
 
 > ~/.ssh/config
 	*	1586961470	0
