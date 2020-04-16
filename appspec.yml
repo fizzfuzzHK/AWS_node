@@ -3,13 +3,12 @@ os: linux
 files:
   - source: ./node
     destination: /home/ec2-user/node
-
 hooks:
-         BeforeInstall:
-                    - location: DeploymentScripts/CleanupScript.sh
-                       AfterInstall:
-                                  - location: DeploymentScripts/InstallScript.sh
-                                         timeout: 600
-                                          ApplicationStart:
-                                                     - location: DeploymentScripts/RestartScript.sh
-                                                            timeout: 3600 
+  BeforeInstall:
+    - location: DeploymentScripts/CleanupScript.sh
+  AfterInstall:
+    - location: DeploymentScripts/InstallScript.sh
+      timeout: 600
+  ApplicationStart:
+    - location: DeploymentScripts/RestartScript.sh
+      timeout: 3600
