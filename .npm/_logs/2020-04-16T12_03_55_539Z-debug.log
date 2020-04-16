@@ -1,0 +1,34 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'install' ]
+2 info using npm@6.14.4
+3 info using node@v10.20.1
+4 verbose npm-session 598f98ffb0feeac2
+5 silly install runPreinstallTopLevelLifecycles
+6 silly preinstall myapp@0.0.0
+7 info lifecycle myapp@0.0.0~preinstall: myapp@0.0.0
+8 silly install loadCurrentTree
+9 silly install readLocalPackageData
+10 timing stage:loadCurrentTree Completed in 9ms
+11 silly install loadIdealTree
+12 silly install cloneCurrentTreeToIdealTree
+13 timing stage:loadIdealTree:cloneCurrentTree Completed in 1ms
+14 silly install loadShrinkwrap
+15 timing stage:loadIdealTree:loadShrinkwrap Completed in 1ms
+16 silly install loadAllDepsIntoIdealTree
+17 verbose stack Error: EACCES: permission denied, open '/home/ec2-user/.npm/_cacache/index-v5/d0/e7/3adacf75f54ebea88fd6d947158b886a7ce3cfc8d64a6663f01e51de66b6'
+18 verbose cwd /home/ec2-user/node/myapp
+19 verbose Linux 4.14.173-137.229.amzn2.x86_64
+20 verbose argv "/usr/bin/node" "/usr/bin/npm" "install"
+21 verbose node v10.20.1
+22 verbose npm  v6.14.4
+23 error code EACCES
+24 error syscall open
+25 error path /home/ec2-user/.npm/_cacache/index-v5/d0/e7/3adacf75f54ebea88fd6d947158b886a7ce3cfc8d64a6663f01e51de66b6
+26 error errno -13
+27 verbose Error: EACCES: permission denied, open '/home/ec2-user/.npm/_cacache/index-v5/d0/e7/3adacf75f54ebea88fd6d947158b886a7ce3cfc8d64a6663f01e51de66b6'
+28 error Your cache folder contains root-owned files, due to a bug in
+28 error previous versions of npm which has since been addressed.
+28 error
+28 error To permanently fix this problem, please run:
+28 error   sudo chown -R 1000:1000 "/home/ec2-user/.npm"
+29 verbose exit [ -13, true ]
