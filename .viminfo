@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1587041138,,"wq"
+|2,0,1587041487,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,36 +25,54 @@
 # Registers:
 
 # File marks:
-'0  9  42  ~/appspec.yml
-|4,48,9,42,1587041138,"~/appspec.yml"
-'1  9  42  ~/appspec.yml
-|4,49,9,42,1587041083,"~/appspec.yml"
-'2  5  57  ~/appspec.yml
-|4,50,5,57,1587040581,"~/appspec.yml"
-'3  6  18  ~/appspec.yml
-|4,51,6,18,1587040581,"~/appspec.yml"
-'4  5  57  ~/appspec.yml
-|4,52,5,57,1587040581,"~/appspec.yml"
-'5  6  18  ~/appspec.yml
-|4,53,6,18,1587040581,"~/appspec.yml"
-'6  5  39  ~/appspec.yml
-|4,54,5,39,1587039905,"~/appspec.yml"
-'7  5  39  ~/appspec.yml
-|4,55,5,39,1587039905,"~/appspec.yml"
-'8  5  39  ~/appspec.yml
-|4,56,5,39,1587039905,"~/appspec.yml"
-'9  5  39  ~/appspec.yml
-|4,57,5,39,1587039905,"~/appspec.yml"
+'0  5  58  ~/appspec.yml
+|4,48,5,58,1587041487,"~/appspec.yml"
+'1  1  0  ~/m
+|4,49,1,0,1587041437,"~/m"
+'2  9  42  ~/appspec.yml
+|4,50,9,42,1587041138,"~/appspec.yml"
+'3  5  150  ~/appspec.yml
+|4,51,5,150,1587041083,"~/appspec.yml"
+'4  9  42  ~/appspec.yml
+|4,52,9,42,1587041083,"~/appspec.yml"
+'5  5  57  ~/appspec.yml
+|4,53,5,57,1587040581,"~/appspec.yml"
+'6  5  54  ~/appspec.yml
+|4,54,5,54,1587040581,"~/appspec.yml"
+'7  5  57  ~/appspec.yml
+|4,55,5,57,1587040581,"~/appspec.yml"
+'8  5  54  ~/appspec.yml
+|4,56,5,54,1587040581,"~/appspec.yml"
+'9  5  57  ~/appspec.yml
+|4,57,5,57,1587040581,"~/appspec.yml"
 
 # Jumplist (newest first):
+-'  5  58  ~/appspec.yml
+|4,39,5,58,1587041487,"~/appspec.yml"
+-'  1  0  ~/m
+|4,39,1,0,1587041437,"~/m"
+-'  1  0  ~/m
+|4,39,1,0,1587041437,"~/m"
 -'  9  42  ~/appspec.yml
 |4,39,9,42,1587041138,"~/appspec.yml"
+-'  9  42  ~/appspec.yml
+|4,39,9,42,1587041138,"~/appspec.yml"
+-'  9  42  ~/appspec.yml
+|4,39,9,42,1587041083,"~/appspec.yml"
 -'  9  42  ~/appspec.yml
 |4,39,9,42,1587041083,"~/appspec.yml"
 -'  5  57  ~/appspec.yml
 |4,39,5,57,1587041054,"~/appspec.yml"
 -'  5  57  ~/appspec.yml
 |4,39,5,57,1587041054,"~/appspec.yml"
+-'  5  57  ~/appspec.yml
+|4,39,5,57,1587041054,"~/appspec.yml"
+-'  5  57  ~/appspec.yml
+|4,39,5,57,1587041054,"~/appspec.yml"
+-'  6  18  ~/appspec.yml
+|4,39,6,18,1587040581,"~/appspec.yml"
+-'  6  18  ~/appspec.yml
+|4,39,6,18,1587040581,"~/appspec.yml"
 -'  6  18  ~/appspec.yml
 |4,39,6,18,1587040581,"~/appspec.yml"
 -'  6  18  ~/appspec.yml
@@ -62,11 +80,21 @@
 -'  5  39  ~/appspec.yml
 |4,39,5,39,1587040574,"~/appspec.yml"
 -'  5  39  ~/appspec.yml
+|4,39,5,39,1587040574,"~/appspec.yml"
+-'  5  39  ~/appspec.yml
 |4,39,5,39,1587039905,"~/appspec.yml"
+-'  5  39  ~/appspec.yml
+|4,39,5,39,1587039905,"~/appspec.yml"
+-'  5  30  ~/appspec.yml
+|4,39,5,30,1586966324,"~/appspec.yml"
 -'  5  30  ~/appspec.yml
 |4,39,5,30,1586966324,"~/appspec.yml"
 -'  5  31  ~/appspec.yml
 |4,39,5,31,1586964355,"~/appspec.yml"
+-'  5  31  ~/appspec.yml
+|4,39,5,31,1586964355,"~/appspec.yml"
+-'  5  17  ~/appspec.yml
+|4,39,5,17,1586964339,"~/appspec.yml"
 -'  5  17  ~/appspec.yml
 |4,39,5,17,1586964339,"~/appspec.yml"
 -'  1  0  ~/appspec.yml
@@ -83,50 +111,22 @@
 |4,39,1,0,1586964319,"~/appspec.yml"
 -'  1  0  ~/appspec.yml
 |4,39,1,0,1586964319,"~/appspec.yml"
--'  3  16  ~/.ssh/config
-|4,39,3,16,1586961470,"~/.ssh/config"
--'  3  16  ~/.ssh/config
-|4,39,3,16,1586961470,"~/.ssh/config"
--'  3  16  ~/.ssh/config
-|4,39,3,16,1586961470,"~/.ssh/config"
--'  3  16  ~/.ssh/config
-|4,39,3,16,1586961470,"~/.ssh/config"
--'  3  16  ~/.ssh/config
-|4,39,3,16,1586961470,"~/.ssh/config"
--'  3  16  ~/.ssh/config
-|4,39,3,16,1586961470,"~/.ssh/config"
--'  3  16  ~/.ssh/config
-|4,39,3,16,1586961470,"~/.ssh/config"
--'  3  16  ~/.ssh/config
-|4,39,3,16,1586961470,"~/.ssh/config"
--'  3  16  ~/.ssh/config
-|4,39,3,16,1586961470,"~/.ssh/config"
--'  3  16  ~/.ssh/config
-|4,39,3,16,1586961470,"~/.ssh/config"
--'  3  16  ~/.ssh/config
-|4,39,3,16,1586961470,"~/.ssh/config"
--'  3  16  ~/.ssh/config
-|4,39,3,16,1586961470,"~/.ssh/config"
--'  3  16  ~/.ssh/config
-|4,39,3,16,1586961470,"~/.ssh/config"
--'  3  16  ~/.ssh/config
-|4,39,3,16,1586961470,"~/.ssh/config"
--'  3  16  ~/.ssh/config
-|4,39,3,16,1586961470,"~/.ssh/config"
--'  3  16  ~/.ssh/config
-|4,39,3,16,1586961470,"~/.ssh/config"
--'  3  16  ~/.ssh/config
-|4,39,3,16,1586961470,"~/.ssh/config"
--'  3  16  ~/.ssh/config
-|4,39,3,16,1586961470,"~/.ssh/config"
--'  3  16  ~/.ssh/config
-|4,39,3,16,1586961470,"~/.ssh/config"
--'  3  16  ~/.ssh/config
-|4,39,3,16,1586961470,"~/.ssh/config"
--'  3  16  ~/.ssh/config
-|4,39,3,16,1586961470,"~/.ssh/config"
--'  3  16  ~/.ssh/config
-|4,39,3,16,1586961470,"~/.ssh/config"
+-'  1  0  ~/appspec.yml
+|4,39,1,0,1586964319,"~/appspec.yml"
+-'  1  0  ~/appspec.yml
+|4,39,1,0,1586964319,"~/appspec.yml"
+-'  1  0  ~/appspec.yml
+|4,39,1,0,1586964319,"~/appspec.yml"
+-'  1  0  ~/appspec.yml
+|4,39,1,0,1586964319,"~/appspec.yml"
+-'  1  0  ~/appspec.yml
+|4,39,1,0,1586964319,"~/appspec.yml"
+-'  1  0  ~/appspec.yml
+|4,39,1,0,1586964319,"~/appspec.yml"
+-'  1  0  ~/appspec.yml
+|4,39,1,0,1586964319,"~/appspec.yml"
+-'  1  0  ~/appspec.yml
+|4,39,1,0,1586964319,"~/appspec.yml"
 -'  3  16  ~/.ssh/config
 |4,39,3,16,1586961470,"~/.ssh/config"
 -'  3  16  ~/.ssh/config
@@ -251,10 +251,10 @@
 # History of marks within files (newest to oldest):
 
 > ~/appspec.yml
-	*	1587041138	0
-	"	9	42
-	^	9	43
-	.	15	72
+	*	1587041486	0
+	"	5	58
+	^	5	59
+	.	5	58
 	+	5	37
 	+	4	17
 	+	5	31
@@ -262,7 +262,14 @@
 	+	5	31
 	+	4	17
 	+	5	39
-	+	15	72
+	+	6	72
+	+	5	30
+	+	4	16
+	+	5	58
+
+> ~/m
+	*	1587041434	0
+	"	1	0
 
 > ~/.ssh/config
 	*	1586961470	0

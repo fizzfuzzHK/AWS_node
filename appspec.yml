@@ -1,14 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source: ./node
-    destination: /home/ec2-user/node
-hooks:
-  BeforeInstall:
-    - location: DeploymentScripts/CleanupScript.sh
-  AfterInstall:
-    - location: DeploymentScripts/InstallScript.sh
-      timeout: 600
-  ApplicationStart:
-    - location: DeploymentScripts/RestartScript.sh
-      timeout: 3600
+  - source: ./node/myapp/views/index.jade
+    destination: /home/ec2-user/node/myapp/views/index.jade
